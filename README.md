@@ -26,7 +26,7 @@ Check out the live project here: [Fashion Blog GitHub Pages](https://tanisha2404
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tanisha240405/FashionBlog
+   git clone (https://github.com/Tanisha240405/FashionBlog)
    ```
 2. Open `index.html` in your browser to view the blog.
 
